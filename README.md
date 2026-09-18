@@ -60,7 +60,7 @@
 
 ### 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad-larhrib&bg_color=00000000&color=2ea043&line=2ea043&point=2ea043&area=true&hide_border=true" alt="GitHub Contribution Graph" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad-larhrib&theme=github_dark" width="100%" alt="GitHub Contribution Graph" /> </p>
 
 ### 💭 Dev Quote
 
